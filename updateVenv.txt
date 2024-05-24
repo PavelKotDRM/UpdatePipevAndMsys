@@ -1,0 +1,6 @@
+D:\Engine\SCons
+D:\python_venv\DataAnalisysNLP
+D:\python_venv\ResercVenv
+D:\python_venv\DataAnalysis
+D:\python_venv\Orange
+D:\python_venv\BookDir
